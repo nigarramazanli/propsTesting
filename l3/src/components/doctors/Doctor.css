@@ -1,0 +1,25 @@
+body{
+    background-color: #ff724a;
+
+}
+.main_Doctors_Container{
+    width: 100%;
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.doctor_Container{
+
+    padding: 10px;
+    background-color: white;
+    width: 27.3%;
+    margin-top: 10px;
+    
+}
+.doctor_Container img{
+
+    width: 100%;
+    height: 56vh;
+}
